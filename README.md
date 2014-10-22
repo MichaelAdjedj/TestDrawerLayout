@@ -1,4 +1,0 @@
-TestDrawerLayout
-================
-
-Test du tiroir
